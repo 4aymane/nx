@@ -43,7 +43,6 @@ out
 .astro
 
 # Local dev files
-.env.local
 .bashrc
 
 *.node
@@ -72,3 +71,4 @@ storybook-static
 # Ignore Gradle project-specific cache directory
 .gradle
 .kotlin
+config.bat
